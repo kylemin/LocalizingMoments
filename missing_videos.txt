@@ -1,0 +1,13 @@
+33195950@N00_7349648576_18848ca0f7.mp4: https://multimedia-commons.s3-us-west-2.amazonaws.com/data/videos/mp4/bca/74d/bca74d6ef4798b4c9e8fccd053eeb.mp4
+37996615073@N01_3336195519_579ea4136c.3gp: https://multimedia-commons.s3-us-west-2.amazonaws.com/data/videos/mp4/814/137/8141373a933ac27c189f757659f7bb63.mp4
+59627558@N00_4659075184_253744838b.3gp: https://multimedia-commons.s3-us-west-2.amazonaws.com/data/videos/mp4/b09/1e4/b091e419cd9a6af3fd5cd2ddf87240c4.mp4
+9161595@N03_6019640821_67dcbb6797.mov: https://multimedia-commons.s3-us-west-2.amazonaws.com/data/videos/mp4/96d/963/96d963984f55f88c9729311bc31cf3d6.mp4
+85154009@N00_3183361585_1c1c1143aa.avi: https://multimedia-commons.s3-us-west-2.amazonaws.com/data/videos/mp4/32e/024/32e02454d38cd96ca370103013c7b9f9.mp4
+29812295@N07_6093883918_0e9fb3d764.avi: https://multimedia-commons.s3-us-west-2.amazonaws.com/data/videos/mp4/d53/ce1/d53ce16c1f5f55ca40f0a02c9b5fe40.mp4
+71701932@N00_3326901843_c126d74aac.mov: https://multimedia-commons.s3-us-west-2.amazonaws.com/data/videos/mp4/d1a/587/d1a587aa4888f897be79b9981eaa8c8d.mp4
+58773213@N00_3727553755_cbb12bf1ae.mov: https://multimedia-commons.s3-us-west-2.amazonaws.com/data/videos/mp4/58c/dd3/58cdd3d08f3a63753e645c96b0215722.mp4
+77807177@N00_5753455690_1e04ccb364.mp4: https://multimedia-commons.s3-us-west-2.amazonaws.com/data/videos/mp4/1ea/06d/1ea06d425a824c1563bbcd957f53fd16.mp4
+64015205@N00_3934026744_6e1ca97e3b.mp4: https://multimedia-commons.s3-us-west-2.amazonaws.com/data/videos/mp4/39a/468/39a468983820ab91d0187c83134a6ed.mp4
+10279741@N00_6757697855_6f83d834a2.wmv: https://multimedia-commons.s3-us-west-2.amazonaws.com/data/videos/mp4/618/913/6189136b6c4acae810abe2ae4a6fc4.mp4
+73858264@N00_5714645478_f5b65214b4.avi: https://multimedia-commons.s3-us-west-2.amazonaws.com/data/videos/mp4/aa2/a26/aa2a26112fb0643a45ec48ee0ba18d8.mp4
+44124421772@N01_2867159874_e39e716b7e.mpg: https://multimedia-commons.s3-us-west-2.amazonaws.com/data/videos/mp4/3b7/fac/3b7fac725edae73aee72ccda42cafb.mp4
